@@ -42,7 +42,6 @@ This project demonstrates advanced pandas concepts such as grouping, filtering, 
 3. Install required Python libraries:
    ```bash
    pip install -r requirements.txt
-```
 
 4. Run the program:
 
@@ -119,5 +118,4 @@ All charts are saved in the `visualizations` folder.
 * Visualizing complex data insights
 
 
-and I’ll create the **Week 5 Google Docs documentation** exactly like Weeks 1–4 💯
-```
+
