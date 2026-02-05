@@ -21,7 +21,8 @@ This project demonstrates advanced pandas concepts such as grouping, filtering, 
 ## 🛠️ Technologies Used
 - Python 3  
 - pandas  
-- matplotlib  
+- matplotlib
+- os
 - Visual Studio Code (VS Code)  
 
 ---
