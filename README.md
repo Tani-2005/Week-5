@@ -9,14 +9,19 @@ This project demonstrates advanced pandas concepts such as grouping, filtering, 
 ---
 ## Output
 
-✅ Project Analysis Complete (Warnings Resolved).
-📁 Visualizations saved to: /visualizations
-----------------------------------------
-TOTAL REVENUE:       $12,365,048
-TOTAL CUSTOMERS:     100
-AVG ORDER VALUE:     $123,650.48
-TOP CUSTOMER:        C00016 ($373,932)
-----------------------------------------
+### 📊 Project Analysis Summary
+> **Status:** ✅ Analysis Complete (0 Warnings)
+
+| Metric | Value |
+| :--- | :--- |
+| **Total Revenue** | `$12,365,048` |
+| **Total Customers** | `100` |
+| **Avg. Order Value** | `$123,650.48` |
+| **Top Customer** | `C00016` ($373,932) |
+
+---
+📁 *Visualizations are available in the [`/visualizations`](./visualizations) directory.*
+
 
 ---
 
