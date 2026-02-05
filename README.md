@@ -19,7 +19,7 @@ This project demonstrates advanced pandas concepts such as grouping, filtering, 
 | **Avg. Order Value** | `$123,650.48` |
 | **Top Customer** | `C00016` ($373,932) |
 
----
+
 📁 *Visualizations are available in the [`/visualizations`](./visualizations) directory.*
 
 
