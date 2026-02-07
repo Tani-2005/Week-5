@@ -127,7 +127,7 @@ All charts are saved in the `visualizations` folder.
 
 ---
 
-## 📚 What I Learned
+## 📚 What I Learne
 
 * Advanced data manipulation using pandas
 * Working with multiple datasets
