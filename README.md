@@ -9,7 +9,7 @@ This project demonstrates advanced pandas concepts such as grouping, filtering, 
 ---
 ## Output
 
-### 📊 Project Analysis Summary
+### 📊 Project Analysis Summar
 > **Status:** ✅ Analysis Complete (0 Warnings)
 
 | Metric | Value |
