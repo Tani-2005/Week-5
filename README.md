@@ -1,5 +1,5 @@
 # Week-5
-# Customer Sales Analysi
+# Customer Sales Analysis
 
 ## 📌 Project Overview
 The Customer Sales Analysis project focuses on advanced data manipulation and analysis using the pandas library. The goal of this project is to analyze customer purchasing behavior, identify top customers, understand sales patterns, and generate meaningful insights using aggregated data and visualizations.
